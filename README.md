@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="fastlane/metadata/android/en-US/images/icon.png" alt="Melody app icon" width="180" />
 
 # Melody 
 [![App Website](https://img.shields.io/badge/Melody-Official%20Website-1f6feb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://melodymuz.vercel.app/)
@@ -124,34 +123,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
 
 Melody is available from several sources — pick whichever works best for you. All builds are free, and updates are released regularly.
 
-### Recommended — App stores & updaters
-
-<table>
-  <tr>
-    <th align="center">F-Droid</th>
-    <th align="center">IzzyOnDroid</th>
-    <th align="center">Obtainium</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://f-droid.org/packages/com.devin.melody/">
-        <img alt="Get Melody on F-Droid" src="https://img.shields.io/badge/F--Droid-Get%20Melody-1976d2?style=for-the-badge&logo=fdroid&logoColor=white&labelColor=0d1117" height="52">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://apt.izzysoft.de/fdroid/index/apk/com.devin.melody">
-        <img src="assets/badges/izzyondroid.svg" alt="Get Melody on IzzyOnDroid" height="72">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/PUT_YOUR_GITHUB_USERNAME/melody/">
-        <img src="assets/badges/obtainium.svg" alt="Add Melody to Obtainium" height="72">
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Direct download
+### Direct download - Recommended
 
 <table>
   <tr>
@@ -160,12 +132,12 @@ Melody is available from several sources — pick whichever works best for you. 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PUT_YOUR_GITHUB_USERNAME/melody/releases">
+      <a href="https://github.com/devprakashvarma07/melody/releases">
         <img src="assets/badges/github-stable.svg" alt="Download Melody from GitHub Releases" height="72">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/PUT_YOUR_GITHUB_USERNAME/melody/releases/latest/download/Melody.apk">
+      <a href="https://github.com/devprakashvarma07/melody/releases/latest/download/Melody.apk">
         <img alt="Download the latest Melody APK" src="https://img.shields.io/badge/APK-Download%20latest-24292e?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117" height="52">
       </a>
     </td>

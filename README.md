@@ -132,12 +132,12 @@ Melody is available from several sources — pick whichever works best for you. 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/devprakashvarma07/melody/releases">
+      <a href="https://github.com/devprakashvarma07/Melody-music/releases">
         <img src="assets/badges/github-stable.svg" alt="Download Melody from GitHub Releases" height="72">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/devprakashvarma07/melody/releases/latest/download/Melody.apk">
+      <a href="https://github.com/devprakashvarma07/Melody-music/releases/latest/download/Melody.apk">
         <img alt="Download the latest Melody APK" src="https://img.shields.io/badge/APK-Download%20latest-24292e?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117" height="52">
       </a>
     </td>
